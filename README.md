@@ -1,6 +1,7 @@
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
-
+## Name:Nivetha N
+## Reg.No:212225040290
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
@@ -49,15 +50,24 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+<img width="927" height="715" alt="Screenshot 2026-05-24 155641" src="https://github.com/user-attachments/assets/1bb20d71-6e9e-4862-b170-b92900da47bb" />
+
 Tabulation for Load Test:
+<img width="832" height="664" alt="Screenshot 2026-05-24 155654" src="https://github.com/user-attachments/assets/92d1355c-3efb-4548-8d2d-49ae07eb0b29" />
+Model graph: OPEN CIRCUIT GRAPH
 
-Model graph:
-Calculation: 
+<img width="1048" height="782" alt="Screenshot 2026-05-24 155710" src="https://github.com/user-attachments/assets/38f3802c-6f7b-4c60-8d57-8f62b8144e26" />
+CLOSE CIRCUIT GRAPH:
 
+<img width="1040" height="633" alt="Screenshot 2026-05-24 155720" src="https://github.com/user-attachments/assets/1f49a304-501b-4005-8217-5718404f53a6" />
+
+Calculation:
 Open circuit characteristics
 
-  
+<img width="1040" height="661" alt="Screenshot 2026-05-24 155736" src="https://github.com/user-attachments/assets/104714d6-12fa-40be-bbdb-7372c74c9634" />
 Load Characteristics:
- 
+
+ <img width="977" height="877" alt="WhatsApp Image 2026-05-24 at 3 58 51 PM" src="https://github.com/user-attachments/assets/efe44370-72de-4e0f-9682-f2ebf75baa69" />
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
