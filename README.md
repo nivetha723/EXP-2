@@ -63,7 +63,9 @@ CLOSE CIRCUIT GRAPH:
 
 Calculation:
 Open circuit characteristics
-<img width="1040" height="661" alt="Screenshot 2026-05-24 155736" src="https://github.com/user-attachments/assets/104714d6-12fa-40be-bbdb-7372c74c9634" />
+
+<img width="861" height="633" alt="image" src="https://github.com/user-attachments/assets/e5e76945-ebd3-4a50-bdcf-fe7c85f4e306" />
+
 Load Characteristics:
 
  <img width="977" height="877" alt="WhatsApp Image 2026-05-24 at 3 58 51 PM" src="https://github.com/user-attachments/assets/efe44370-72de-4e0f-9682-f2ebf75baa69" />
