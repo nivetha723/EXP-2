@@ -63,7 +63,6 @@ CLOSE CIRCUIT GRAPH:
 
 Calculation:
 Open circuit characteristics
-
 <img width="1040" height="661" alt="Screenshot 2026-05-24 155736" src="https://github.com/user-attachments/assets/104714d6-12fa-40be-bbdb-7372c74c9634" />
 Load Characteristics:
 
